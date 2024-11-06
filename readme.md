@@ -3,8 +3,8 @@
 ![Demo App](/frontend/public/linkedin_screenshot.png)
 
 
+Project Overview:
 
--   Project Setup
 -   MongoDB Integration
 -   Authentication System with JWT
 -   Welcome Emails
